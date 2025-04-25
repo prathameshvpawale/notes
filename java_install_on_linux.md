@@ -1,5 +1,10 @@
 # java install on linux 
-## java
+## java install
 ``` 
 sudo apt install default-jre
+```
+
+## java version
+``` 
+java -version
 ```
