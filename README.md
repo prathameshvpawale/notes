@@ -1,17 +1,2 @@
-# docker_notes
-## version information
-``` 
-docker -v 
-```
-## run container
-``` 
-docker run -it ubuntu
-```
-## running container
-``` 
-docker container ls
-```
-## all container
-``` 
-docker container ls -a
-```
+
+[#java_install_on_linux ](https://github.com/prathameshvpawale/notes/blob/main/java_install_on_linux.md)
