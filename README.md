@@ -4,3 +4,5 @@
 [docker](https://github.com/prathameshvpawale/notes/blob/main/docker_notes.md)
 
 [WSL](https://github.com/prathameshvpawale/notes/blob/main/wsl.md)
+
+[TMUX](https://github.com/prathameshvpawale/notes/blob/main/tmux.md)
